@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Rajat Baidya</h1>
 <h3 align="center">A passionate Data Analyst from Nepal</h3>
 
-- I’m currently learning **node.js,react,.net**
+- I’m currently learning **node.js,.net , numpy,pandas**
 
 - Ask me about **python,.net,c/c++**
 

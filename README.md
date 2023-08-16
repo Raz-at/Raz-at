@@ -3,7 +3,7 @@
 
 - I’m currently learning **node.js,.net,numpy,pandas**
 
-- Ask me about **python,.net,c/c++**
+- Ask me about **python,.net,c/c++,mysql,sql server**
 
 - How to reach me **razbaidya1@gmail.com**
 

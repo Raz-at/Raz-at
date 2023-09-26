@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Rajat Baidya</h1>
-<h3 align="center">A passionate at nodejs backend.</h3>
+<h3 align="center">A passionate at DotNet c#.</h3>
 
-- I’m currently learning **Ruby on Rails,node.js,.net,numpy,pandas**
+- I’m currently learning **ASP DOTNET core , API**
 
-- Ask me about **python,.net,c/c++,mysql,sql server**
+- Ask me about **python,.net,c#,c/c++,mysql,sql server**
 
 - How to reach me **razbaidya1@gmail.com**
 

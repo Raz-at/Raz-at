@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Rajat Baidya</h1>
-<h3 align="center">A passionate at DotNet c#.</h3>
+<h3 align="center">A passionate at .Net c#.</h3>
 
-- I’m currently learning **ASP DOTNET core , API**
+- I’m currently learning **ASP.net core , API**
 
 - Ask me about **python,.net,c#,c/c++,mysql,sql server**
 

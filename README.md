@@ -1,9 +1,8 @@
 <h1 align="center">Hi , I'm Rajat Baidya</h1>
-<h3 align="center">A passionate at .Net c#.</h3>
+<!-- <h3 align="center">A passionate at .Net c#.</h3> -->
+<!-- <h3>I’m currently learning **ASP.net core , API**</h3> -->
 
-- I’m currently learning **ASP.net core , API**
-
-- Ask me about **python,.net,c#,c/c++,mysql,sql server**
+- Ask me about **python,.net,c#,c/c++,mysql,sql server,ASP .net**
 
 - How to reach me **razbaidya1@gmail.com**
 
